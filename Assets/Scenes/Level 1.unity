@@ -2033,6 +2033,38 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8629256493210509508, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256493474707755, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_fontSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256493474707755, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256493665593304, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256493665593304, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_ScreenMatchMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256493665593304, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256493665593304, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 800
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256493665593304, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 600
+      objectReference: {fileID: 0}
     - target: {fileID: 8629256493665593306, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -2127,6 +2159,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8629256493873990975, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256493911794794, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256494055984264, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_fontSize
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629256494055984264, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
+      propertyPath: m_enableAutoSizing
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8629256494999622664, guid: ddbb638ac44da6341b76e669bc10df2f, type: 3}
